@@ -1,4 +1,4 @@
-# 
+# premium pump.fun sniper bot | volume-spike-detection + honeypot-detection is the best pump.fun sniper bot, featuring volume-spike-detection and honeypot-detection. Fast, smart,
 
 
 
